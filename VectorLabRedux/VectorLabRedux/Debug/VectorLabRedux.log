@@ -1,0 +1,6 @@
+﻿  vectorutils.cpp
+c:\users\miste\source\repos\vectorlabredux\vectorlabredux\vectorutils.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\miste\source\repos\vectorlabredux\vectorlabredux\vectorutils.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\miste\source\repos\vectorlabredux\vectorlabredux\vectorutils.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\miste\source\repos\vectorlabredux\vectorlabredux\vectorutils.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  VectorLabRedux.vcxproj -> C:\Users\miste\source\repos\VectorLabRedux\Debug\VectorLabRedux.exe
